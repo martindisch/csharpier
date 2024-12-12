@@ -35,6 +35,7 @@
   <Project Path=".github/Github.csproj">
     <Build Project="false" />
   </Project>
+  <Project Path="AcceptTests/AcceptTests.csproj" />
   <Project Path="docs/Docs.csproj">
     <Build Project="false" />
   </Project>
